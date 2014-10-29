@@ -1,1 +1,3 @@
 prod.txt
+*.pyc
+prod.py
